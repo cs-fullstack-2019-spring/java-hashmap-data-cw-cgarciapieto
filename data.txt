@@ -1,0 +1,4 @@
+car, four wheel vehicle
+dog, mans best friend
+cat, ruler of the house
+apple, something you eat
